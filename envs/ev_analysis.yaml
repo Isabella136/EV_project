@@ -1,0 +1,11 @@
+channels:
+  - agbiome
+  - bioconda
+  - cyclus
+dependencies:
+  - agbiome::bbtools
+  - bioconda::bowtie2
+  - bioconda::samtools
+  - bioconda::kraken2
+  - bioconda::bracken
+  - cyclus::java-jdk
